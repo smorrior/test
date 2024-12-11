@@ -3,34 +3,34 @@
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../images/1.jpg": [
-    "/assets/AboutView-Co-PkGbp.js",
-    "/assets/AboutView-CSIvawM9.css"
+    "/test/assets/AboutView-BE18w787.js",
+    "/test/assets/AboutView-CSIvawM9.css"
   ],
   "../../../../../images/2.jpg": [
-    "/assets/AboutView-Co-PkGbp.js",
-    "/assets/AboutView-CSIvawM9.css"
+    "/test/assets/AboutView-BE18w787.js",
+    "/test/assets/AboutView-CSIvawM9.css"
   ],
   "../../../../../images/3.jpg": [
-    "/assets/AboutView-Co-PkGbp.js",
-    "/assets/AboutView-CSIvawM9.css"
+    "/test/assets/AboutView-BE18w787.js",
+    "/test/assets/AboutView-CSIvawM9.css"
   ],
   "../../../../../images/engine2.jpg": [
-    "/assets/engine2-CcaQm42Y.js"
+    "/test/assets/engine2-BJ9ePA42.js"
   ],
   "../../../../../images/nacional-auto-logo.png": [
-    "/assets/Nav-D1_5LHSK.js",
-    "/assets/Nav-4COO6mt3.css"
+    "/test/assets/Nav-kc15tpd4.js",
+    "/test/assets/Nav-4COO6mt3.css"
   ],
   "../../../../../images/nacional_auto.jpg": [
-    "/assets/AboutView-Co-PkGbp.js",
-    "/assets/AboutView-CSIvawM9.css"
+    "/test/assets/AboutView-BE18w787.js",
+    "/test/assets/AboutView-CSIvawM9.css"
   ],
   "index.html": [],
   "node_modules/@unhead/dom/dist/index.mjs": [],
   "node_modules/@unhead/shared/dist/index.mjs": [],
   "node_modules/@unhead/vue/dist/shared/vue.8fc199ce.mjs": [
-    "/assets/Nav-D1_5LHSK.js",
-    "/assets/Nav-4COO6mt3.css"
+    "/test/assets/Nav-kc15tpd4.js",
+    "/test/assets/Nav-4COO6mt3.css"
   ],
   "node_modules/@unhead/vue/dist/shared/vue.f49591ad.mjs": [],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
@@ -47,61 +47,61 @@
   "src/App.vue?vue&type=style&index=0&scoped=26c29839&lang.css": [],
   "src/assets/main.css": [],
   "src/components/Brands.vue": [
-    "/assets/HomeView-BxsRwOhQ.js"
+    "/test/assets/HomeView-BAYLLyYn.js"
   ],
   "src/components/FlipCard.vue": [
-    "/assets/FlipCard-C5zJ6Bow.js",
-    "/assets/FlipCard-BSLxYgoQ.css"
+    "/test/assets/FlipCard-BkoyDSn6.js",
+    "/test/assets/FlipCard-BSLxYgoQ.css"
   ],
   "src/components/FlipCard.vue?vue&type=style&index=0&scoped=67fcb0ae&lang.css": [
-    "/assets/FlipCard-C5zJ6Bow.js",
-    "/assets/FlipCard-BSLxYgoQ.css"
+    "/test/assets/FlipCard-BkoyDSn6.js",
+    "/test/assets/FlipCard-BSLxYgoQ.css"
   ],
   "src/components/Foot.vue": [],
   "src/components/Nav.vue": [
-    "/assets/Nav-D1_5LHSK.js",
-    "/assets/Nav-4COO6mt3.css"
+    "/test/assets/Nav-kc15tpd4.js",
+    "/test/assets/Nav-4COO6mt3.css"
   ],
   "src/components/Nav.vue?vue&type=style&index=0&scoped=bdd6cd4d&lang.css": [
-    "/assets/Nav-D1_5LHSK.js",
-    "/assets/Nav-4COO6mt3.css"
+    "/test/assets/Nav-kc15tpd4.js",
+    "/test/assets/Nav-4COO6mt3.css"
   ],
   "src/components/icons/CarAll.vue": [
-    "/assets/CarQuality-766RX_S-.js"
+    "/test/assets/CarQuality-BLIevDnB.js"
   ],
   "src/components/icons/CarQuality.vue": [
-    "/assets/CarQuality-766RX_S-.js"
+    "/test/assets/CarQuality-BLIevDnB.js"
   ],
   "src/components/icons/CarTop.vue": [
-    "/assets/CarQuality-766RX_S-.js"
+    "/test/assets/CarQuality-BLIevDnB.js"
   ],
   "src/constants.js": [
-    "/assets/Nav-D1_5LHSK.js",
-    "/assets/Nav-4COO6mt3.css"
+    "/test/assets/Nav-kc15tpd4.js",
+    "/test/assets/Nav-4COO6mt3.css"
   ],
   "src/main.js": [],
   "src/router/index.js": [],
   "src/views/AboutView.vue": [
-    "/assets/AboutView-Co-PkGbp.js",
-    "/assets/AboutView-CSIvawM9.css"
+    "/test/assets/AboutView-BE18w787.js",
+    "/test/assets/AboutView-CSIvawM9.css"
   ],
   "src/views/AboutView.vue?vue&type=style&index=0&lang.css": [
-    "/assets/AboutView-Co-PkGbp.js",
-    "/assets/AboutView-CSIvawM9.css"
+    "/test/assets/AboutView-BE18w787.js",
+    "/test/assets/AboutView-CSIvawM9.css"
   ],
   "src/views/HomeView.vue": [
-    "/assets/HomeView-BxsRwOhQ.js"
+    "/test/assets/HomeView-BAYLLyYn.js"
   ],
   "src/views/serviceJapan/CarBrand.vue": [
-    "/assets/CarBrand-B14qB6q_.js"
+    "/test/assets/CarBrand-BECml1qk.js"
   ],
   "src/views/serviceJapan/ServiceJapan.vue": [
-    "/assets/ServiceJapan-C-vukNKw.js"
+    "/test/assets/ServiceJapan-C7A5V8l5.js"
   ],
   "src/views/serviceKorea/CarBrand.vue": [
-    "/assets/CarBrand-Bo_pFrTd.js"
+    "/test/assets/CarBrand-Do2ScLv9.js"
   ],
   "src/views/serviceKorea/ServiceKorea.vue": [
-    "/assets/ServiceKorea-DllyYuGI.js"
+    "/test/assets/ServiceKorea-BE_uOtbD.js"
   ]
 }
